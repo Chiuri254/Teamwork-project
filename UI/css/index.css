@@ -43,6 +43,8 @@
     font-weight: 400;
     line-height: 1.6;
     color: #404040;
+    background-size: cover;
+    background-position: center;
     background-color: #fcfcfc; }
   
   .container {
@@ -127,7 +129,7 @@
         color: rgba(255, 255, 255, 0.8); }
       .user-nav__link:hover {
         color: #fff;
-        background: #D8364C; }
+        background: #2224b8; }
       @media only screen and (max-width: 37.5em) {
         .user-nav__link {
           padding: 1rem; } }
@@ -178,7 +180,7 @@
           font-size: 3rem;
           margin-bottom: 2rem; } }
       .hero__heading--name {
-        color: #D8364C; }
+        color: #2224b8; }
   
   .btn {
     font-size: 1.5rem;
@@ -191,12 +193,12 @@
     outline: none;
     cursor: pointer;
     color: #fff;
-    background-color: #D8364C;
+    background-color: #2224b8;
     transition: all 400ms; }
     @media only screen and (max-width: 37.5em) {
       .btn {
         padding: 1rem; } }
     .btn:hover {
-      background-color: #BD032B; }
+      background-color:  #2224b8; }
   
  
